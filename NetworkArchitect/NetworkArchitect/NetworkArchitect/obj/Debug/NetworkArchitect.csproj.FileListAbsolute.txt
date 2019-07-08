@@ -1,0 +1,7 @@
+C:\Users\Boris Ho\Documents\WorkSpace\NetworkArchitect\NetworkArchitect\NetworkArchitect\bin\Debug\NetworkArchitect.exe.config
+C:\Users\Boris Ho\Documents\WorkSpace\NetworkArchitect\NetworkArchitect\NetworkArchitect\bin\Debug\NetworkArchitect.exe
+C:\Users\Boris Ho\Documents\WorkSpace\NetworkArchitect\NetworkArchitect\NetworkArchitect\bin\Debug\NetworkArchitect.pdb
+C:\Users\Boris Ho\Documents\WorkSpace\NetworkArchitect\NetworkArchitect\NetworkArchitect\obj\Debug\NetworkArchitect.csprojAssemblyReference.cache
+C:\Users\Boris Ho\Documents\WorkSpace\NetworkArchitect\NetworkArchitect\NetworkArchitect\obj\Debug\NetworkArchitect.csproj.CoreCompileInputs.cache
+C:\Users\Boris Ho\Documents\WorkSpace\NetworkArchitect\NetworkArchitect\NetworkArchitect\obj\Debug\NetworkArchitect.exe
+C:\Users\Boris Ho\Documents\WorkSpace\NetworkArchitect\NetworkArchitect\NetworkArchitect\obj\Debug\NetworkArchitect.pdb
